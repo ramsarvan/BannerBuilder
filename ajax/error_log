@@ -1,0 +1,243 @@
+[30-Jan-2012 06:41:12] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/corvusse/public_html/banner-builder/ajax/common.php on line 11
+[30-Jan-2012 06:41:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/corvusse/public_html/banner-builder/ajax/common.php on line 12
+[30-Jan-2012 06:42:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/corvusse/public_html/banner-builder/ajax/common.php on line 12
+[30-Jan-2012 07:47:41] PHP Warning:  imagecreatefrompng(images/sample-banner-2.jpg) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[30-Jan-2012 07:47:41] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 18
+[30-Jan-2012 07:47:41] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 26
+[30-Jan-2012 07:47:41] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 27
+[30-Jan-2012 07:47:41] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 28
+[30-Jan-2012 07:48:57] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '../images/sample-banner-2.jpg' is not a valid PNG file in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[30-Jan-2012 07:48:57] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 18
+[30-Jan-2012 07:48:57] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 26
+[30-Jan-2012 07:48:57] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 27
+[30-Jan-2012 07:48:57] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 28
+[30-Jan-2012 09:13:39] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 11
+[30-Jan-2012 09:15:06] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 11
+[30-Jan-2012 09:15:38] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 11
+[30-Jan-2012 09:16:04] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 11
+[30-Jan-2012 09:16:34] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 11
+[30-Jan-2012 11:27:14] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[30-Jan-2012 11:27:14] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[30-Jan-2012 11:27:14] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 18
+[30-Jan-2012 11:27:14] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 19
+[30-Jan-2012 11:27:14] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 20
+[30-Jan-2012 11:27:29] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[30-Jan-2012 11:27:29] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[30-Jan-2012 11:27:29] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 18
+[30-Jan-2012 11:27:29] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 19
+[30-Jan-2012 11:27:29] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 20
+[31-Jan-2012 01:28:51] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 01:28:51] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 01:28:51] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 01:28:51] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 01:28:51] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 01:28:51] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:13:50] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:13:50] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:13:50] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:13:50] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:13:50] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:13:50] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:14:02] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:14:02] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:14:02] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:14:02] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:14:02] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:14:02] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:14:23] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:14:23] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:14:23] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:14:23] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:14:23] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:14:23] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:14:24] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:14:24] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:14:24] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:14:24] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:14:24] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:14:24] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:16:22] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:16:22] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:16:22] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:16:22] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:16:22] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:16:22] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:18:05] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:18:05] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:18:05] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:18:05] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:18:05] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:18:05] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:19:30] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:19:30] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:19:30] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:19:30] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:19:30] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:19:30] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:20:54] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:20:54] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:20:54] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:20:54] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:20:54] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:20:54] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:23:26] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:23:26] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:23:26] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:23:26] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:23:26] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:23:26] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:23:39] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:23:39] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:23:39] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:23:39] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:23:39] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:23:39] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:24:19] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:24:19] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:24:19] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:24:19] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:24:19] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:24:19] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:28:04] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:28:04] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:28:04] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:28:04] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:28:04] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:28:04] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:30:46] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:30:46] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:30:46] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:30:46] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:30:46] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:30:46] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:32:06] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:32:06] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:32:06] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:32:06] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:32:06] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:32:06] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:32:12] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:32:12] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:32:12] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:32:12] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:32:12] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:32:12] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:32:27] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:32:27] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:32:27] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:32:27] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:32:27] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:32:27] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:38:22] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 9
+[31-Jan-2012 06:38:22] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 13
+[31-Jan-2012 06:38:22] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 17
+[31-Jan-2012 06:38:22] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:38:22] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:38:22] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 25
+[31-Jan-2012 06:51:53] PHP Warning:  imagettftext() expects parameter 2 to be double, string given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:51:53] PHP Warning:  imagettftext() expects parameter 2 to be double, string given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 06:52:02] PHP Warning:  imagettftext() expects parameter 2 to be double, string given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 23
+[31-Jan-2012 06:52:02] PHP Warning:  imagettftext() expects parameter 2 to be double, string given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 24
+[31-Jan-2012 12:56:55] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 30
+[31-Jan-2012 12:56:55] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 35
+[31-Jan-2012 12:56:55] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 45
+[31-Jan-2012 12:56:55] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 61
+[31-Jan-2012 12:56:55] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 62
+[31-Jan-2012 12:56:55] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 65
+[31-Jan-2012 12:56:55] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[31-Jan-2012 12:56:55] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 70
+[31-Jan-2012 12:56:55] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 72
+[31-Jan-2012 12:56:55] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 74
+[31-Jan-2012 12:56:59] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 30
+[31-Jan-2012 12:56:59] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 35
+[31-Jan-2012 12:56:59] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 45
+[31-Jan-2012 12:56:59] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 61
+[31-Jan-2012 12:56:59] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 62
+[31-Jan-2012 12:56:59] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 65
+[31-Jan-2012 12:56:59] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[31-Jan-2012 12:56:59] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 70
+[31-Jan-2012 12:56:59] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 72
+[31-Jan-2012 12:56:59] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 74
+[31-Jan-2012 12:57:09] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 30
+[31-Jan-2012 12:57:09] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 35
+[31-Jan-2012 12:57:09] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 45
+[31-Jan-2012 12:57:09] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 61
+[31-Jan-2012 12:57:09] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 62
+[31-Jan-2012 12:57:09] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 65
+[31-Jan-2012 12:57:09] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[31-Jan-2012 12:57:09] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 70
+[31-Jan-2012 12:57:09] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 72
+[31-Jan-2012 12:57:09] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 74
+[01-Feb-2012 04:27:58] PHP Parse error:  syntax error, unexpected '*' in /home2/corvusse/public_html/banner-builder/ajax/custom-common.php on line 45
+[01-Feb-2012 04:49:27] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 30
+[01-Feb-2012 04:49:27] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 35
+[01-Feb-2012 04:49:27] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 45
+[01-Feb-2012 04:49:27] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 61
+[01-Feb-2012 04:49:27] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 62
+[01-Feb-2012 04:49:27] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[01-Feb-2012 04:49:27] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 72
+[01-Feb-2012 04:49:27] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 74
+[01-Feb-2012 04:50:24] PHP Warning:  imagecreatefrompng(../images/undefined) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 30
+[01-Feb-2012 04:50:24] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 35
+[01-Feb-2012 04:50:24] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 45
+[01-Feb-2012 04:50:24] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 61
+[01-Feb-2012 04:50:24] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 62
+[01-Feb-2012 04:50:24] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[01-Feb-2012 04:50:24] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 72
+[01-Feb-2012 04:50:24] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 74
+[02-Feb-2012 02:40:35] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 41
+[02-Feb-2012 02:40:35] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 49
+[02-Feb-2012 02:40:35] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[02-Feb-2012 02:40:35] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 68
+[02-Feb-2012 02:40:35] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 71
+[02-Feb-2012 02:40:35] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 73
+[02-Feb-2012 02:40:35] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 76
+[02-Feb-2012 02:40:35] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 78
+[02-Feb-2012 02:40:41] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 41
+[02-Feb-2012 02:40:41] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 49
+[02-Feb-2012 02:40:41] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[02-Feb-2012 02:40:41] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 68
+[02-Feb-2012 02:40:41] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 71
+[02-Feb-2012 02:40:41] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 73
+[02-Feb-2012 02:40:41] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 76
+[02-Feb-2012 02:40:41] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 78
+[02-Feb-2012 02:40:47] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 41
+[02-Feb-2012 02:40:47] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 49
+[02-Feb-2012 02:40:47] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[02-Feb-2012 02:40:47] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 68
+[02-Feb-2012 02:40:47] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 71
+[02-Feb-2012 02:40:47] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 73
+[02-Feb-2012 02:40:47] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 76
+[02-Feb-2012 02:40:47] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 78
+[02-Feb-2012 02:40:57] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 41
+[02-Feb-2012 02:40:57] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 49
+[02-Feb-2012 02:40:57] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[02-Feb-2012 02:40:57] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 68
+[02-Feb-2012 02:40:57] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 71
+[02-Feb-2012 02:40:57] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 73
+[02-Feb-2012 02:40:57] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 76
+[02-Feb-2012 02:40:57] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 78
+[02-Feb-2012 02:40:58] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 41
+[02-Feb-2012 02:40:58] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 49
+[02-Feb-2012 02:40:58] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[02-Feb-2012 02:40:58] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 68
+[02-Feb-2012 02:40:58] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 71
+[02-Feb-2012 02:40:58] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 73
+[02-Feb-2012 02:40:58] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 76
+[02-Feb-2012 02:40:58] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 78
+[02-Feb-2012 02:40:59] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 41
+[02-Feb-2012 02:40:59] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 49
+[02-Feb-2012 02:40:59] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[02-Feb-2012 02:40:59] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 68
+[02-Feb-2012 02:40:59] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 71
+[02-Feb-2012 02:40:59] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 73
+[02-Feb-2012 02:40:59] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 76
+[02-Feb-2012 02:40:59] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 78
+[02-Feb-2012 02:41:00] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 41
+[02-Feb-2012 02:41:00] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 49
+[02-Feb-2012 02:41:00] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 67
+[02-Feb-2012 02:41:00] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 68
+[02-Feb-2012 02:41:00] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 71
+[02-Feb-2012 02:41:00] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 73
+[02-Feb-2012 02:41:00] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 76
+[02-Feb-2012 02:41:00] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home2/corvusse/public_html/banner-builder/ajax/banner_generator.php on line 78
